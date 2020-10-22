@@ -21,6 +21,7 @@
   }, "Deployment": {
     "Heroku": "/deployment_heroku",
     "Azure Functions": "/deployment_azure_functions",
+    "BentoML": "/deployment_bento",
     "SeeMe.ai": "/deployment_seeme_ai"
   }
 }
